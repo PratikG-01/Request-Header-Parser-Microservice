@@ -1,1 +1,2 @@
-The Request Header Parser Microservice is a Node.js Express API that extracts a client’s IP address, preferred language, and user-agent (browser/OS) from request headers and returns them as a JSON object.
+node_modules
+.env
